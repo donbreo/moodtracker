@@ -2,6 +2,8 @@
 
 Stillday is a private, local-first daily mood and wellbeing journal. Use it to record a brief check-in, keep a separate free-form journal, and look back at recent trends. It is a personal self-tracking tool, not a diagnostic or medical application.
 
+**Demo:** [mood.brandondabreo.com](https://mood.brandondabreo.com/)
+
 ## Features
 
 - Daily check-ins for emotional, cognitive, physical, social, coping, sleep, and daily-context measures
